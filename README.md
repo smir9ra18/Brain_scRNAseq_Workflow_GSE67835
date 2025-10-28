@@ -76,22 +76,13 @@ brain-scrna-seq-workflow/
 ├── data/                              # Downloaded raw data (auto-created)
 └── results/
     ├── figures/                       # Generated plots
-    │   ├── 01_qc_metrics.png
-    │   ├── 02_highly_variable_genes.png
-    │   ├── 03_pca_variance.png
-    │   ├── 04_umap_clusters.png
-    │   ├── 05_marker_heatmap.png
-    │   ├── 06_marker_dotplot.png
-    │   ├── 07_umap_cell_types.png
-    │   ├── 08_marker_expression_umap.png
-    │   ├── 09_marker_violin.png
     │   └── 10_complete_analysis_overview.png
     ├── tables/                        # Data tables and annotations
     │   ├── marker_genes_top10.csv
     │   ├── cell_type_annotations.csv
     │   ├── analysis_summary.csv
     │   └── cell_metadata.csv
-    └── processed_adata.h5ad           # Processed AnnData object
+   
 ```
 
 ## 🔬 Analysis Workflow
