@@ -78,10 +78,10 @@ brain-scrna-seq-workflow/
     ├── figures/                       # Generated plots
     │   └── 10_complete_analysis_overview.png
     ├── tables/                        # Data tables and annotations
-    │   ├── marker_genes_top10.csv
-    │   ├── cell_type_annotations.csv
-    │   ├── analysis_summary.csv
-    │   └── cell_metadata.csv
+       ├── marker_genes_top10.csv
+       ├── cell_type_annotations.csv
+       ├── analysis_summary.csv
+       └── cell_metadata.csv
    
 ```
 
